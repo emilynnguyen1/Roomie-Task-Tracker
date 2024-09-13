@@ -44,7 +44,3 @@ You can find some initialized users, their passwords, and roommate groups at the
 - **Java**: Object-oriented programming language used to implement the system.
 - **SDLC**: Applied Software Development Life Cycle methodology.
 - **UML**: Unified Modeling Language diagrams for system design.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
